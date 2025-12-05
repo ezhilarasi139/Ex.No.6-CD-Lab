@@ -12,13 +12,14 @@ To write a program to implement the back end of the compiler.
 5. Target code for the given statement is produced.
 6. Stop the program.
 ## PROGRAM:
-###expr6.txt
+### expr6.txt
+```
 
 t1 = a + b
 t2 = t1 - c
+```
 
-
-###expr6.c
+### expr6.c
 ```
 #include <stdio.h>
 #include <stdlib.h>
